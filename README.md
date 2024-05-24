@@ -43,9 +43,10 @@ print(Norm_of_matrix)
 
 ```
 ## Output:
-![image](https://github.com/Supraja0510/Norm-of-a-matrix/assets/155217478/b979de23-8e83-4cad-9c9a-81b183f18a7e)
-![image](https://github.com/Supraja0510/Norm-of-a-matrix/assets/155217478/28e6d8f9-3483-4ec3-8ea7-6aa7ec800436)
-![image](https://github.com/Supraja0510/Norm-of-a-matrix/assets/155217478/b71c569c-bdd4-4977-932e-3d11e7dda111)
+![image](https://github.com/Supraja0510/Norm-of-a-matrix/assets/155217478/85cba108-e9c7-4a53-872a-143211582e32)
+![image](https://github.com/Supraja0510/Norm-of-a-matrix/assets/155217478/dbfc183e-632c-4eb4-b8ac-c1e4ef9d673c)
+![image](https://github.com/Supraja0510/Norm-of-a-matrix/assets/155217478/fee515cc-f272-40bb-9f1a-f035f26cc661)
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
